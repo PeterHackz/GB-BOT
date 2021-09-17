@@ -12,7 +12,7 @@ install required modules via:
 ```
 pip install -r requirements.txt
 ```
-add your bot token, guild ID, and mongodb connection url in config.json
+add your bot token, guild ID, and mongodb connection url in [config.json](https://github.com/SB-9838/GB-BOT/blob/main/GB/config.json)
 # LINKS
 [join my discord server](https://discord.gg/b2ejYcJjqA)
 # STAR
